@@ -1,3 +1,13 @@
+# Mermaid voorbeelden
+
+
+## Pie Chart diagram
+```pre
+pie title Inlogprocedure
+    "Problematisch" : 200
+    "Niet gelukt" : 50
+    "Gelukt" : 100
+```
 ```mermaid
 pie title Inlogprocedure
     "Problematisch" : 200
@@ -5,20 +15,24 @@ pie title Inlogprocedure
     "Gelukt" : 100
 ```
 
-
-## Wachtwoord inlog resultaat
+## Sankey Flow diagram
+```pre
+sankey-beta
+Inlogprocedure, Problematisch, 200
+Inlogprocedure, Niet gelukt, 50
+Inlogprocedure, Gelukt, 100
+```
 
 ```mermaid
 sankey-beta
 Inlogprocedure, Problematisch, 200
 Inlogprocedure, Niet gelukt, 50
 Inlogprocedure, Gelukt, 100
-
-
 ```
-## Happy flow voorbeeld met boxen
-```pre
-stateDiagram-v2
+## Happy flow met boxen
+
+```c
+stateDiagram
     aanmelden --> inloggen
     aanmelden --> inschrijving
 
@@ -55,7 +69,8 @@ stateDiagram-v2
 ```
 
 ## Happy flow zonder boxen
-```pre
+
+```c
 stateDiagram-v2
     aanmelden --> inloggen
     aanmelden --> inschrijving
@@ -93,7 +108,7 @@ inschrijving --> invoer_gegevens
 
 ## Customer journey voorbeeld
 
-```pre
+```c
 journey
     title Fiets bestellen
     section Inlogprocedure
@@ -116,3 +131,36 @@ journey
       Categoriepagina openen: 5: Koper
       Electrische fiets kiezen: 5: Koper, Webshop
 ```
+
+## Tijdlijn voorbeeld
+
+```pre
+timeline
+  title Lesopbouw Project Prototyping
+  section coaching  
+      week 1 : Inleiding voorwaarden (2 uur)
+      week 2 : Opstellen voorwaarden (2 uur)
+  
+                        
+section aan de slag!
+   week 3 : Overleggen werkschema prototyping
+          : Workshop Circuits
+   week 4 : Bouwen prototype
+          : Workshop Interface Design 
+```
+
+```mermaid
+      timeline
+         title Lesopbouw Project Prototyping
+         section coaching  
+            week 1 : Inleiding voorwaarden (2 uur)
+            week 2 : Opstellen voorwaarden (2 uur)
+  
+                        
+         section aan de slag!
+            week 3 : Overleggen werkschema prototyping
+                     : Workshop Circuits
+            week 4 : Bouwen prototype
+                     : Workshop Interface Design 
+```
+
