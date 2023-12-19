@@ -150,6 +150,77 @@ section aan de slag!
             week 4 : Bouwen prototype
                      : Workshop Interface Design 
 ```
+## Mindmap voorbeeld
+```pre
+      mindmap
+      root((CMD<br>Toepassingen<br>Domein))
+         Design
+            Book Design
+            Branding
+            Typografie
+            Digital Design
+         Maatschappij
+            Design for Transition
+            Digitale geletterdheid
+            Social Impact & Inclusiviteit
+            Digitalisering in Erfgoed
+            Regionale Ontwikkeling
+            Health & Society
+         Mens en Ervaring
+            Psychologie
+            User Experience
+            User Research
+         Organisatie
+            Entrepeneurship
+            Stakeholders
+            Werkmethodes
+         Digitale technologie
+            Augmented Reality
+            Virtual Reality
+            Design Systems
+            Animatie
+            Artificial Intelligence
+            Front End development
+            App development
+            Internet
+```
+```mermaid
+      mindmap
+      root((CMD<br>Toepassingen<br>Domein))
+         Design
+            Book Design
+            Branding
+            Typografie
+            Digital Design
+         Maatschappij
+            Design for Transition
+            Digitale geletterdheid
+            Social Impact & Inclusiviteit
+            Digitalisering in Erfgoed
+            Regionale Ontwikkeling
+            Health & Society
+         Mens en Ervaring
+            Psychologie
+            User Experience
+            User Research
+         Organisatie
+            Entrepeneurship
+            Stakeholders
+            Werkmethodes
+         Digitale technologie
+            Augmented Reality
+            Virtual Reality
+            Design Systems
+            Animatie
+            Artificial Intelligence
+            Front End development
+            App development
+            Internet
+```
+
+
+
+
 
 ## Sankey Flow diagram
 ```pre
