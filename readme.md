@@ -15,12 +15,7 @@ pie title Inlogprocedure
     "Gelukt" : 100
 ```
 
-```mermaid
-sankey-beta
-Inlogprocedure, Problematisch, 200
-Inlogprocedure, Niet gelukt, 50
-Inlogprocedure, Gelukt, 100
-```
+
 ## Happy flow met boxen
 
 ```c
@@ -163,4 +158,9 @@ Inlogprocedure, Problematisch, 200
 Inlogprocedure, Niet gelukt, 50
 Inlogprocedure, Gelukt, 100
 ```
-
+```mermaid
+sankey-beta
+Inlogprocedure, Problematisch, 200
+Inlogprocedure, Niet gelukt, 50
+Inlogprocedure, Gelukt, 100
+```
