@@ -1,5 +1,5 @@
 # Mermaid voorbeelden
-
+Deze pagina bevat bevvorbeelden van de meest gangbare toepassingen van **Mermaid**. Mermaid is een framework waarbij je ingewikkelde diagrammen en tabellen kan visualiseren op een vrij simpele manier: door gewoon in tekst (code) te typen wat je in de infographic wil zien!
 
 ## Pie Chart diagram
 ```pre
