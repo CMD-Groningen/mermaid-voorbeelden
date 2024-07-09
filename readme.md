@@ -1,6 +1,21 @@
 # Mermaid voorbeelden
 Deze pagina bevat voorbeelden van de meest gangbare toepassingen van **Mermaid**. Mermaid is opmaakcode waarbij je ingewikkelde diagrammen en tabellen kan visualiseren op een vrij simpele manier: door gewoon in tekst (code) te typen wat je in de infographic wil zien!
 
+## Sankey Flow diagram
+```pre
+sankey-beta
+Inlogprocedure, Problematisch, 200
+Inlogprocedure, Niet gelukt, 50
+Inlogprocedure, Gelukt, 100
+```
+```mermaid
+sankey-beta
+Inlogprocedure, Problematisch, 200
+Inlogprocedure, Niet gelukt, 50
+Inlogprocedure, Gelukt, 100
+```
+
+
 ## Pie Chart diagram
 ```pre
 pie title Inlogprocedure
@@ -14,6 +29,7 @@ pie title Inlogprocedure
     "Niet gelukt" : 50
     "Gelukt" : 100
 ```
+
 
 
 ## Happy flow met boxen
@@ -222,16 +238,4 @@ section aan de slag!
 
 
 
-## Sankey Flow diagram
-```pre
-sankey-beta
-Inlogprocedure, Problematisch, 200
-Inlogprocedure, Niet gelukt, 50
-Inlogprocedure, Gelukt, 100
-```
-```mermaid
-sankey-beta
-Inlogprocedure, Problematisch, 200
-Inlogprocedure, Niet gelukt, 50
-Inlogprocedure, Gelukt, 100
-```
+
