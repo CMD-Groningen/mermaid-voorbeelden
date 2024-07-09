@@ -1,4 +1,4 @@
-# Mermaid voorbeelden
+# Mermaid data visualisatie voorbeelden
 Deze pagina bevat voorbeelden van de meest gangbare toepassingen van **Mermaid**. Mermaid is opmaakcode waarbij je ingewikkelde diagrammen en tabellen kan visualiseren op een vrij simpele manier: door gewoon in tekst (code) te typen wat je in de infographic wil zien!
 
 ## Sankey Flow diagram
