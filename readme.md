@@ -1,4 +1,4 @@
-# Mermaid data visualisatie voorbeelden
+# Automatische data visualisaties met Mermaid
 Deze pagina bevat voorbeelden van de meest gangbare toepassingen van **Mermaid**. Mermaid is opmaakcode waarbij je ingewikkelde diagrammen en tabellen in een handomdraai kan visualiseren op een vrij simpele manier: door gewoon in tekst (code) te typen wat je in de infographic wil zien! Je typt de labels en de data aantallen en Mermaid tekent automatisch de diagrammen voor je! Handig voor studenten bij UXE: Je kan de verzamelde data van je research meteen snel weergeven zonder een tekenprogramma te openen.
 
 ## Sankey Flow diagram
